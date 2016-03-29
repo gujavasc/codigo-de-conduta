@@ -7,7 +7,7 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 ## Código de Conduta
 
-O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas independentemente de:
+O **Slack GUJavaSC** deve ser um lugar seguro e convidativo para pessoas independentemente de:
 - Gênero, identidade de gênero ou expressão de gênero
 - Orientação sexual
 - Restrições físicas
@@ -50,24 +50,14 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin. 
 Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
-* **Walmyr Carvalho** - @walmyrcarvalho
-* **Lúcio Maciel** - @luciofm
-* **João Gouveia** - @joaogouveia
-* **Pedro Salomão** - @ppgsalomao
-* **David Conceição** - @daviddeveloper
+* **Gustavo Bitencourt** - @gustavobite
+* **Rodrigo Cândido** - @rcandidosilva
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
-## Como participar do grupo?
-
-Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android lusófonos ([falantes da língua portuguesa](https://pt.wikipedia.org/wiki/Lusofonia)) em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento. 
-Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas. 
-Dúvidas sobre ROMs, manutenção de aparelhos Android ou procedimentos que violem garantias e bom funcionamento dos mesmos também não são o foco deste grupo.
-É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
-
 Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
-[http://slack.androiddevbr.org](http://slack.androiddevbr.org)
+[http://slack.gujavasc.org](http://slack.gujavasc.org)
 
 ## Regras de etiqueta - Slack
 
