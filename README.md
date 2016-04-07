@@ -57,7 +57,7 @@ Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
-[http://slack.gujavasc.org](http://slack.gujavasc.org)
+[http://gujavasc.slack.com](http://gujavasc.slack.com)
 
 ## Regras de etiqueta - Slack
 
